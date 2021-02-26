@@ -1,0 +1,13 @@
+git status --> prints the status of repository
+git init  --> initializes the git repository
+git config --global user.name "Let's code it" -->specifies user name
+git config --global user.email "sapte777@yahoo.com"
+git config user.name "Let's code it"
+git config user.email "sapte777@yahoo.com"
+git add
+git commit -m ""
+git log
+git diff <filename.
+
+"git add <file>..." to update what will be committed)
+"git restore <file>..." to discard changes in working directory
