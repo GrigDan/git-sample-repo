@@ -9,5 +9,5 @@ git commit -m ""
 git log
 git diff <filename.
 
-"git add <file>..." to update what will be committed)
-"git restore <file>..." to discard changes in working directory
+
+git remote add origin <Git Hub Repository URL>		--> Establsh onnection to the remote GitHub Repository
