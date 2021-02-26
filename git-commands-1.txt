@@ -8,3 +8,6 @@ git add
 git commit -m ""
 git log
 git diff <filename.
+
+"git add <file>..." to update what will be committed)
+"git restore <file>..." to discard changes in working directory
