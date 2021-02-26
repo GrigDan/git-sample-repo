@@ -9,5 +9,4 @@ git commit -m ""
 git log
 git diff <filename.
 
-
 git remote add origin <Git Hub Repository URL>		--> Establsh onnection to the remote GitHub Repository
